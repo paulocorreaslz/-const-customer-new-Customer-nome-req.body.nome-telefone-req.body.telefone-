@@ -8,10 +8,10 @@ node server.js
 
 to access:
 
-localhost:5000/
+localhost:3000/
 
 or 
 
-localhost:5000/customers
+localhost:3000/customers
 
 
